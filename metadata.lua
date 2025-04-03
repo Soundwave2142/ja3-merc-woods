@@ -1,0 +1,68 @@
+return PlaceObj('ModDef', {
+	'title', "Woods",
+	'description', 'The first entry in the "Echoes of a Cold War" series of custom mercs for Jagged Alliance 3 is a beloved character from the franchise Call of Duty: Black Ops. Featuring in its many campaigns and media: Frank Woods.\n\nThe aim of the mod was to bring high-quality seamless integration with the game. Hopefully this mod will feel like an official crossover.\n\nFeatures:\n- Own model ported from Cold War, optimazed for the game engine and artistic style.\n- 447 voice responses ported from Cold War, made fit for all in-game scenarios.\n- Custom render of character portrait made to fit game style.\n- Custom perk Payback desigened to get your squad blood pumping as battle progresses.\n\nCharacter, model, and voice acting are properties of Activision and Treyarch. All rights belong to them. \nCredits: Soundwave2142 - Port of the character and mod set up.',
+	'image', "Mod/iXq5UQs/Images/woods_preview_512.png",
+	'external_links', {
+		"https://steamcommunity.com/id/Soundwave2142/myworkshopfiles",
+		"https://github.com/Soundwave2142",
+	},
+	'last_changes', "- Fixed voice responces only working for English.",
+	'id', "iXq5UQs",
+	'author', "Soundwave2142",
+	'version_major', 1,
+	'version_minor', 1,
+	'version', 311,
+	'lua_revision', 233360,
+	'saved_with_revision', 366685,
+	'entities', {
+		"Head_Woods",
+		"Body_Woods",
+		"Pants_Woods",
+	},
+	'code', {
+		"UnitData/Woods.lua",
+		"CharacterEffect/WoodsEffect.lua",
+		"CharacterEffect/Payback.lua",
+		"Entities/Head_Woods.lua",
+		"Entities/Body_Woods.lua",
+		"Entities/Pants_Woods.lua",
+	},
+	'default_options', {},
+	'has_data', true,
+	'saved', 1742319383,
+	'code_hash', 2437299596089346245,
+	'affected_resources', {
+		PlaceObj('ModResourcePreset', {
+			'Class', "UnitDataCompositeDef",
+			'Id', "Woods",
+			'ClassDisplayName', "Unit",
+		}),
+		PlaceObj('ModResourcePreset', {
+			'Class', "CharacterEffectCompositeDef",
+			'Id', "WoodsEffect",
+			'ClassDisplayName', "Character effect",
+		}),
+		PlaceObj('ModResourcePreset', {
+			'Class', "CharacterEffectCompositeDef",
+			'Id', "Payback",
+			'ClassDisplayName', "Character effect",
+		}),
+		PlaceObj('ModResourcePreset', {
+			'Class', "LootDef",
+			'Id', "Woods",
+			'ClassDisplayName', "Loot definition",
+		}),
+		PlaceObj('ModResourcePreset', {
+			'Class', "AppearancePreset",
+			'Id', "Woods",
+			'ClassDisplayName', "Appearance preset",
+		}),
+		PlaceObj('ModResourcePreset', {
+			'Class', "VoiceResponse",
+			'Id', "Woods",
+			'ClassDisplayName', "Unit voice responses",
+		}),
+	},
+	'steam_id', "3444275128",
+	'TagMercs', true,
+})
