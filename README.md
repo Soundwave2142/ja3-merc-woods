@@ -8,8 +8,8 @@ The aim of the mod was to bring high-quality seamless integration with the game.
 
 ![Features Banner 1](https://i.imgur.com/BJbPpg3.png)
 
-| **Own model** ported from Cold War, optimazed for the game engine and artistic style.<br />**447 voice responses** ported from Cold War, made fit for all in-game scenarios (English only).<br />**Custom render** of the character portrait made to fit the game style.<br />**Custom perk** __Payback__ is desigened to get your squad's blood pumping as battle progresses. | ![Features Banner 1](https://i.imgur.com/z9VcB7o.png) |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------- |
+| **Own model** ported from Cold War, optimized for the game engine and artistic style.<br />**447 voice responses** ported from Cold War, made fit for all in-game scenarios (English only).<br />**Custom render** of the character portrait made to fit the game style.<br />**Custom perk** __Payback__ is designed to get your squad's blood pumping as battle progresses. | ![Features Banner 1](https://i.imgur.com/z9VcB7o.png) |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------- |
 
 About custom perk:<br />
 _Receive __Payback__ at the start of __each turn__. Upon killing an enemy, move one stack from self to a random ally; 
@@ -26,6 +26,6 @@ Don't forget to like and favorite this item if you want to see more characters o
 If you have any issues or suggestions, please navigate to "Bugs" and "Suggestions" discussion threads respectively.
 
 ![Other Mods Banner](https://i.imgur.com/fiImUZF.png)
-[![Antonov Banner](https://i.imgur.com/QouYs1U.png[/img)](https://steamcommunity.com/sharedfiles/filedetails/?id=3448840884)
+[![Antonov Banner](https://i.imgur.com/QouYs1U.png[/img)](https://github.com/Soundwave2142/ja3-merc-antonov)
 [![Coming Soon Banner](https://i.imgur.com/RLGrc7A.png)](https://steamcommunity.com/id/Soundwave2142/myworkshopfiles/)
 [![Worshop Banner](https://i.imgur.com/BcArOn5.png)](https://steamcommunity.com/id/Soundwave2142/myworkshopfiles/)
